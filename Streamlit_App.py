@@ -1,6 +1,3 @@
-"""
-    Creado por: Victoria Navarro
-"""
 
 import streamlit as st
 import pandas as pd
