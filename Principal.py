@@ -11,10 +11,10 @@ st.image("https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/202
 
 st.subheader("Miembros del equipo")
 st.markdown("""
-- Lorena Cerda Rioja 
+- Lorena Belen Cerda Rioja 
 - Anel 
 - Flor Estefany Chuchullo Mosqueta
-- Victoria
+- Victoria Justa Navarro Valdiviezo
 - Licie Solainch Paredes Bedoya
 """)
 
