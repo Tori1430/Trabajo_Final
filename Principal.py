@@ -11,11 +11,11 @@ st.image("https://diariocorreo.pe/resizer/Fc7YLo9pXk9ykDycNAg8OkQ58LE=/580x330/s
 
 st.subheader("Miembros del equipo")
 st.markdown("""
-- Lorena
-- Anel
+- Lorena Cerda Rioja 
+- Anel 
 - Flor
 - Victoria
-- Solainch
+- Licie Solainch Paredes Bedoya
 """)
 
 # Creación del dataframe con los datos "preprocesados"
