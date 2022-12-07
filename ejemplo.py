@@ -4,6 +4,19 @@ import numpy as np
 import datetime
 from utilities import *
 
+#####
+#Título
+st.title('Índices Soberanos 2010 - 2022')
+st.image("https://diariocorreo.pe/resizer/Fc7YLo9pXk9ykDycNAg8OkQ58LE=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KXKXRKMB7NGKLE3ASDKUGPVDRI.jpg", width=600)
+
+st.subheader("Miembros del equipo")
+st.markdown("""
+- Lorena
+-Anel
+-Flor
+-Victoria
+""")
+
 # Creación del dataframe con los datos "preprocesados"
 download_data('data.csv')
 df = pd.read_csv('data.csv', encoding='utf-8')
