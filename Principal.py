@@ -12,9 +12,9 @@ st.image("https://diariocorreo.pe/resizer/Fc7YLo9pXk9ykDycNAg8OkQ58LE=/580x330/s
 st.subheader("Miembros del equipo")
 st.markdown("""
 - Lorena
--Anel
--Flor
--Victoria
+- Anel
+- Flor
+- Victoria
 """)
 
 # Creación del dataframe con los datos "preprocesados"
