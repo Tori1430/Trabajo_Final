@@ -6,8 +6,8 @@ from utilities import *
 
 #####
 #Título
-st.title('Fallecidos por COVID-19',
-         """[Ministerio de salud MINSA]""")
+st.title('Fallecidos por COVID-19')
+st.title("""[Ministerio de salud MINSA]""")
 st.image("https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2021/03/06/uci.jpeg", width=600)
 
 st.subheader("Miembros del equipo")
