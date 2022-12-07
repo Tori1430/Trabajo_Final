@@ -13,7 +13,7 @@ st.subheader("Miembros del equipo")
 st.markdown("""
 - Lorena Cerda Rioja 
 - Anel 
-- Flor
+- Flor Estefany Chuchullo Mosqueta
 - Victoria
 - Licie Solainch Paredes Bedoya
 """)
