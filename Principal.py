@@ -15,6 +15,7 @@ st.markdown("""
 - Anel
 - Flor
 - Victoria
+- Solainch
 """)
 
 # Creación del dataframe con los datos "preprocesados"
