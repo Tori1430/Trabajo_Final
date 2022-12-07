@@ -6,7 +6,7 @@ from utilities import *
 
 #####
 #Título
-st.title('Índices Soberanos 2010 - 2022')
+st.title('FALLECIDOS Y HOSPITALIZADOS DE COVID')
 st.image("https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2021/03/06/uci.jpeg", width=600)
 
 st.subheader("Miembros del equipo")
