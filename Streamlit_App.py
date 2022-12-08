@@ -22,11 +22,11 @@ st.markdown("La pandemia debida a enfermedad por coronavirus 2019 (COVID-19) ha 
 
 #DATASET
 st.subheader("Dataset")
-st.markdown("Toma como referencia el universo de fallecidos por covid, toma como referencia el universo de fallecidos por covid y si han recibido dosis de vacunas covid") 
+st.markdown("Toma como referencia el universo de fallecidos por covid,  vinculando información de aquellos que estuvieron hospitalizados y si han recibido dosis de vacunas covid.") 
 st.markdown("Los datos analizados en esta página fueron recuperados de la ´Plataforma Nacional de Datos Abiertos´ del Ministerio de Salud (MINSA)")
 st.markdown("Última fecha de modificación: 22 de diciembre del 2021")
-st.markdown("https://www.datosabiertos.gob.pe/dataset/fallecidos-hospitalizados-y-vacunados-por-covid-19")
-
+st.markdown("URL: https://www.datosabiertos.gob.pe/dataset/fallecidos-hospitalizados-y-vacunados-por-covid-19")
+st.image("https://consultas-dev.sc.minsa.mvpdemoapp.com/assets/logo.png", width=200)
 
 
 # Creación del dataframe con los datos "preprocesados"
