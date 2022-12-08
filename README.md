@@ -1,6 +1,6 @@
 # Trabajo_Final
 
-TEMA: Fallecidos por COVID-19 
+TEMA: Fallecidos, hospitalizados y vacunados por COVID - 19
 
 Datos recuperados de: MINSA 
 
@@ -12,4 +12,4 @@ INTEGRANTES:
 * Licie Solainch Paredes Bedoya
 
 CURSO: Progrmación Avanzada 2022-II
--Ingeniería Ambiental-
+-Ingeniería Ambiental
