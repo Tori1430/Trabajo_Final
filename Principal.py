@@ -48,5 +48,6 @@ option = st.selectbox('Seleccione el sexo', ('M', 'F', 'Both'))
 
 data = filtered_data(df, f_0, f_f)
 chart(data, option)
+st.write("Cifras de fallecidos posicionado en el mapa geográfico del Perú. ")
 st.write("En el gráfico se observa el número de fallecidos por departamento  identificandose el sexo de cada individuo.")
 Distribuciones(data)
