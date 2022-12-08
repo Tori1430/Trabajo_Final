@@ -38,6 +38,7 @@ set_dep = np.sort(df['dpt_cdc'].dropna().unique())
 dep_opt = st.selectbox('Departamento', set_dep)
 df_dep = df[df['dpt_cdc'] == dep_opt]
 num_filas = df_dep.shape[0]
+st.write("En el gráfico se observa el número de fallecidos por departamento  identificandose el sexo de cada individuo: ")
 
 st.write('Número de fallecidos en el departamento: ', num_filas)
 
