@@ -50,6 +50,5 @@ data = filtered_data(df, f_0, f_f)
 
 
 gráfico ( datos , opción ) 
-st.write("En el gráfico se observa el número de fallecidos por departamento  identificandose el sexo de cada individuo: ")
-
 Distribuciones ( datos )
+st.write("En el gráfico se observa el número de fallecidos por departamento  identificandose el sexo de cada individuo: ")
