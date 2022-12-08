@@ -47,5 +47,5 @@ f_f = st.date_input("Indique una fecha superior: ", datetime.date(2021, 1, 1))
 option = st.selectbox('Seleccione el sexo', ('M', 'F', 'Both'))
 
 data = filtered_data(df, f_0, f_f)
-grafico ( datos , opción )
+grafico ( datos , opcion )
 Distribuciones ( datos )
