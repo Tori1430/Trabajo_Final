@@ -12,7 +12,7 @@ st.image("https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/202
 st.subheader("Miembros del equipo")
 st.markdown("""
 - Lorena Belen Cerda Rioja 
-- Anel Shantal Ortiz Camargo
+- Anel Schantal Ortiz Camargo
 - Flor Estefany Chuchullo Mosqueta
 - Victoria Justa Navarro Valdiviezo
 - Licie Solainch Paredes Bedoya
