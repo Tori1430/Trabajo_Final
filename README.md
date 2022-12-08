@@ -10,3 +10,6 @@ INTEGRANTES:
 * Flor Estefany Chuchullo Mosqueta
 * Victoria Justa Navarro Valdiviezo
 * Licie Solainch Paredes Bedoya
+
+CURSO: Progrmación Avanzada 2022-II
+-Ingeniería Ambiental-
