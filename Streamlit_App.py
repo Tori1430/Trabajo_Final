@@ -27,10 +27,10 @@ st.markdown(" ")
 
 #DATASET
 st.subheader("Dataset")
-st.markdown("Toma como referencia el universo de fallecidos por covid,  vinculando información de aquellos que estuvieron hospitalizados y si han recibido dosis de vacunas covid.") 
-st.markdown("Los datos analizados en esta página fueron recuperados de la ´Plataforma Nacional de Datos Abiertos´ del Ministerio de Salud (MINSA)")
-st.markdown("Última fecha de modificación: 22 de diciembre del 2021")
-st.markdown("URL: https://www.datosabiertos.gob.pe/dataset/fallecidos-hospitalizados-y-vacunados-por-covid-19")
+st.text("Toma como referencia el universo de fallecidos por covid,  vinculando información de aquellos que estuvieron hospitalizados y si han recibido dosis de vacunas covid.") 
+st.text("Los datos analizados en esta página fueron recuperados de la ´Plataforma Nacional de Datos Abiertos´ del Ministerio de Salud (MINSA)")
+st.text("Última fecha de modificación: 22 de diciembre del 2021")
+st.text("URL: https://www.datosabiertos.gob.pe/dataset/fallecidos-hospitalizados-y-vacunados-por-covid-19")
 st.image("https://consultas-dev.sc.minsa.mvpdemoapp.com/assets/logo.png", width=200)
 
 st.markdown(" ")
