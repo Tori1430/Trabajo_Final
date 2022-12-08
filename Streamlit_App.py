@@ -17,8 +17,13 @@ st.markdown("""
 - Victoria Justa Navarro Valdiviezo
 - Licie Solainch Paredes Bedoya
 """)
+
+st.markdown(" ")
+
 st.subheader("Contexto Nacional e Internacional")
 st.markdown("La pandemia debida a enfermedad por coronavirus 2019 (COVID-19) ha producido más de 70 mil muertes en el mundo.")
+
+st.markdown(" ")
 
 #DATASET
 st.subheader("Dataset")
@@ -28,6 +33,7 @@ st.markdown("Última fecha de modificación: 22 de diciembre del 2021")
 st.markdown("URL: https://www.datosabiertos.gob.pe/dataset/fallecidos-hospitalizados-y-vacunados-por-covid-19")
 st.image("https://consultas-dev.sc.minsa.mvpdemoapp.com/assets/logo.png", width=200)
 
+st.markdown(" ")
 
 # Creación del dataframe con los datos "preprocesados"
 download_data('data.csv')
