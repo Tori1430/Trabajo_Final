@@ -31,6 +31,8 @@ with fig_col1:
     """)
 
 with fig_col2:
+    st.markdown("## ")
+    st.markdown("## ")
     st.image("https://www.edb.gov.sg/content/dam/edb-en/insights/innovation/innovation-in-a-crisis-singapore-flexes-biomed-chops-against-covid-19/Mask.gif", width=400)
 
     
