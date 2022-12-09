@@ -15,6 +15,9 @@ st.title('Fallecidos, hospitalizados y vacunados por COVID-19')
 
 st.image("https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2021/03/06/uci.jpeg", width=600)
 
+st.markdown("## ")   #espacios
+st.markdown("## ")
+
 fig_col1, fig_col2 = st.columns(2)
 
 with fig_col1: 
@@ -28,7 +31,7 @@ with fig_col1:
     """)
 
 with fig_col2:
-    st.image("https://www.edb.gov.sg/content/dam/edb-en/insights/innovation/innovation-in-a-crisis-singapore-flexes-biomed-chops-against-covid-19/Mask.gif", width=200)
+    st.image("https://www.edb.gov.sg/content/dam/edb-en/insights/innovation/innovation-in-a-crisis-singapore-flexes-biomed-chops-against-covid-19/Mask.gif", width=400)
 
     
 st.markdown("## ")
