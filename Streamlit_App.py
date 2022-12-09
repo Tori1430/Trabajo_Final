@@ -20,8 +20,6 @@ st.markdown("""
 st.subheader("Contexto Nacional e Internacional")
 st.markdown("La pandemia debida a enfermedad por coronavirus 2019 (COVID-19) ha producido más de 70 mil muertes en el mundo.")
 
-
-
 st.set_page_config(     
     page_title="Dashboard Programación Avanzada",
     layout="wide",
