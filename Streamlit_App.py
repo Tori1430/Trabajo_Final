@@ -21,7 +21,7 @@ st.markdown("## ")
 fig_col1, fig_col2 = st.columns(2)
 
 with fig_col1: 
-    st.subheader("## Miembros del equipo")
+    st.subheader(" Miembros del equipo")
     st.markdown("""
         - Lorena Belen, Cerda Rioja 
         - Anel Schantal, Ortiz Camargo
@@ -37,7 +37,7 @@ with fig_col2:
 st.markdown("## ")
 
 #DATASET
-st.subheader("## Información de la página")
+st.subheader(" Información de la página")
 """
 La información analizada en esta página proviene de la ´Plataforma Nacional de Datos Abiertos´ del Ministerio de Salud (MINSA).
 La dataset titulada Fallecidos, hospitalizados y vacunados por covid-19 toma como referencia el universo de fallecidos por covid, vinculando información de aquellos que estuvieron hospitalizados y si han recibido dosis de vacunas covid.
@@ -51,7 +51,10 @@ with fig_col1:
     st.image("https://www.edb.gov.sg/content/dam/edb-en/insights/innovation/innovation-in-a-crisis-singapore-flexes-biomed-chops-against-covid-19/Testing.gif" , width=400)
 with fig_col2:
     st.markdown("## ")
+    st.markdown("## ")
+    st.markdown("## ")
     st.image("https://consultas-dev.sc.minsa.mvpdemoapp.com/assets/logo.png", width=300)
+    
 st.markdown("## ")
 
 # Creación del dataframe con los datos "preprocesados"
