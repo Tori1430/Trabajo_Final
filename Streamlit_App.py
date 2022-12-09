@@ -48,10 +48,10 @@ st.markdown("URL: https://www.datosabiertos.gob.pe/dataset/fallecidos-hospitaliz
 
 fig_col1, fig_col2 = st.columns(2)
 with fig_col1:
-    st.image("https://consultas-dev.sc.minsa.mvpdemoapp.com/assets/logo.png", width=300)
-with fig_col2:
     st.image("https://www.edb.gov.sg/content/dam/edb-en/insights/innovation/innovation-in-a-crisis-singapore-flexes-biomed-chops-against-covid-19/Testing.gif" , width=400)
-
+with fig_col2:
+    st.markdown("## ")
+    st.image("https://consultas-dev.sc.minsa.mvpdemoapp.com/assets/logo.png", width=300)
 st.markdown("## ")
 
 # Creación del dataframe con los datos "preprocesados"
