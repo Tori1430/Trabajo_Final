@@ -9,6 +9,22 @@ st.set_page_config(
     layout="wide",
 )
 
+#####
+#Título
+st.title('Fallecidos por COVID-19')
+st.title("""[Ministerio de salud MINSA]""")
+st.image("https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2021/03/06/uci.jpeg", width=600)
+st.subheader("Miembros del equipo")
+st.markdown("""
+- Lorena Belen Cerda Rioja 
+- Anel Schantal Ortiz Camargo
+- Flor Estefany Chuchullo Mosqueta
+- Victoria Justa Navarro Valdiviezo
+- Licie Solainch Paredes Bedoya
+""")
+st.subheader("Contexto Nacional e Internacional")
+st.markdown("La pandemia debida a enfermedad por coronavirus 2019 (COVID-19) ha producido más de 70 mil muertes en el mundo.")
+
 # Creación del dataframe con los datos "preprocesados"
 download_data('data.csv')
 df = pd.read_csv('data.csv', encoding='utf-8')
