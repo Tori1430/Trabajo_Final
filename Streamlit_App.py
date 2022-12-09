@@ -28,9 +28,9 @@ st.subheader("Información de la página")
 "La información analizada en esta página proviene de la ´Plataforma Nacional de Datos Abiertos´ del Ministerio de Salud (MINSA)."
 "La dataset toma como referencia el universo de fallecidos por covid, vinculando información de aquellos que estuvieron hospitalizados y si han recibido dosis de vacunas covid."
 "En total fueron 32 variables, de los cuales solo ese escogieron 8 debido a la relación con nuestro dashboard."
-st.markdown("Última fecha de modificación : 22 de diciembre del 2021"
+st.markdown("Última fecha de modificación : 22 de diciembre del 2021")
 st.markdown("URL: https://www.datosabiertos.gob.pe/dataset/fallecidos-hospitalizados-y-vacunados-por-covid-19")
-st.image("https://consultas-dev.sc.minsa.mvpdemoapp.com/assets/logo.png", width=250)
+st.image("https://consultas-dev.sc.minsa.mvpdemoapp.com/assets/logo.png", width=200)
 
 st.markdown("## ")
 
