@@ -55,7 +55,7 @@ with fig_col1:
     st.write('Número de Fallecidos en el Departamento: ', num_filas)
     st.write('Número de Hospitalizados: ', num_hosp)
     st.write('Número de Hospitalizados con Oxígeno: ', num_O2)
-    st.write('Número de Hospitalizados con ventilación: ', num_ventilacion)
+    st.write('Número de Hospitalizados con Ventilación: ', num_ventilacion)
     st.write('Número de Vacunados: ', num_vacunados)
 
 
