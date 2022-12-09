@@ -16,20 +16,18 @@ st.title('Fallecidos, hospitalizados y vacunados por COVID-19')
 st.image("https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2021/03/06/uci.jpeg", width=600)
 st.subheader("Miembros del equipo")
 st.markdown("""
-- Lorena Belen Cerda Rioja 
-- Anel Schantal Ortiz Camargo
-- Flor Estefany Chuchullo Mosqueta
-- Victoria Justa Navarro Valdiviezo
-- Licie Solainch Paredes Bedoya
+- Lorena Belen, Cerda Rioja 
+- Anel Schantal, Ortiz Camargo
+- Flor Estefany, Chuchullo Mosqueta
+- Victoria Justa, Navarro Valdiviezo
+- Licie Solainch, Paredes Bedoya
 """)
-st.subheader("Contexto Nacional e Internacional")
-st.markdown("La pandemia debida a enfermedad por coronavirus 2019 (COVID-19) ha producido más de 70 mil muertes en el mundo.")
 
 #DATASET
-st.subheader("Dataset")
-st.markdown("Toma como referencia el universo de fallecidos por covid, vinculando información de aquellos que estuvieron hospitalizados y si han recibido dosis de vacunas covid.") 
-st.markdown("Los datos analizados en esta página fueron recuperados de la ´Plataforma Nacional de Datos Abiertos´ del Ministerio de Salud (MINSA).")
-"En total fueron 32 variables, de los cuales solo escogimos # debido a la relación con nuestro dashboard."
+st.subheader("Información de la página")
+"La información analizada en esta página proviene de la ´Plataforma Nacional de Datos Abiertos´ del Ministerio de Salud (MINSA)."
+"La dataset toma como referencia el universo de fallecidos por covid, vinculando información de aquellos que estuvieron hospitalizados y si han recibido dosis de vacunas covid.") 
+"En total fueron 32 variables, de los cuales solo ese escogieron 8 debido a la relación con nuestro dashboard."
 st.markdown("Última fecha de modificación : 22 de diciembre del 2021")
 st.markdown("URL: https://www.datosabiertos.gob.pe/dataset/fallecidos-hospitalizados-y-vacunados-por-covid-19")
 st.image("https://consultas-dev.sc.minsa.mvpdemoapp.com/assets/logo.png", width=250)
