@@ -21,13 +21,13 @@ st.markdown("## ")
 fig_col1, fig_col2 = st.columns(2)
 
 with fig_col1: 
-    st.subheader("Miembros del equipo")
+    st.subheader("    Miembros del equipo")
     st.markdown("""
-    - Lorena Belen, Cerda Rioja 
-    - Anel Schantal, Ortiz Camargo
-    - Flor Estefany, Chuchullo Mosqueta
-    - Victoria Justa, Navarro Valdiviezo
-    - Licie Solainch, Paredes Bedoya
+        - Lorena Belen, Cerda Rioja 
+        - Anel Schantal, Ortiz Camargo
+        - Flor Estefany, Chuchullo Mosqueta
+        - Victoria Justa, Navarro Valdiviezo
+        - Licie Solainch, Paredes Bedoya
     """)
 
 with fig_col2:
